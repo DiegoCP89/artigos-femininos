@@ -29,4 +29,4 @@ assignees: ''
 ---
 
 
-> **⚠️ Lembrete:** No menu lateral direito, selecione a **Label** do SDLC correspondente e vincule ao projeto **"Artefatos"**.
+> **⚠️ Lembrete:** No menu lateral direito, selecione a **Label** do SDLC correspondente, o Milestone pertinente e vincule ao projeto **"Artefatos"**.
