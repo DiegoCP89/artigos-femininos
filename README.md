@@ -19,8 +19,8 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 
 ### 1. Planejamento
 * [x] [Identidade Organizacional (Missão, Visão e Valores)](./documentacao/missao_visao_valores.md)
-* [ ] Matriz SWOT
-* [ ] Matriz 5W2H
+* [x] [Matriz SWOT](documentacao/matriz_swot.md)
+* [x] [Matriz 5W2H](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/Matriz%205W2H.pdf)
 * [ ] TAP (Termo de Abertura do Projeto)
 * [ ] EAP (Estrutura Analítica do Projeto)
 * [ ] Proposta Comercial
