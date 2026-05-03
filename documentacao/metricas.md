@@ -1,24 +1,28 @@
-# 📏 Métricas de Software
+# 📏 Métricas de Custo (Baseadas em Modelagem de Dados)
 
-> Este documento define os indicadores e métricas utilizados para mensurar o tamanho, a qualidade e o desempenho do sistema de inventário.
+> Este documento estabelece a métrica de custo do projeto utilizando como base a complexidade das entidades e relacionamentos que compõem a arquitetura do sistema.
 
 ---
 
-### 🔍 1. Métrica de Tamanho (Funcionalidades)
-Utilizaremos uma adaptação de contagem por funcionalidades principais para estimar o esforço de desenvolvimento em `C#`:
+### 📊 1. Estimativa por Complexidade de Entidades (DER/Diagrama de Classes)
+O investimento total de **R$ 15.000,00** é fundamentado no esforço técnico para modelar, normalizar e implementar as seguintes estruturas no banco de dados `PostgreSQL`:
 
-| Módulo | Complexidade | Estimativa de Esforço |
-| :--- | :--- | :--- |
-| Cadastro de Produtos (SKU) | Média | 12 horas |
-| Controle de Entradas/Saídas | Alta | 20 horas |
-| Geração de Relatórios | Média | 10 horas |
-| Alertas de Estoque Mínimo | Baixa | 06 horas |
+| Entidade (Classe/Tabela) | Complexidade Técnica | Peso no Custo | Justificativa de Modelagem |
+| :--- | :--- | :--- | :--- |
+| **Produto / SKU** | Alta | 35% | Requer atributos complexos, chaves estrangeiras múltiplas e normalização (3FN). |
+| **Movimentação / Estoque** | Alta | 35% | Entidade associativa de alta transacionalidade com lógica de integridade referencial. |
+| **Fornecedor / Cliente** | Média | 15% | Estrutura de cadastros com relacionamentos 1:N padronizados. |
+| **Usuário / Perfil** | Baixa | 15% | Entidade de controle de acesso com atributos simples e poucas relações. |
 
-### 🎯 2. Métricas de Qualidade
-Para garantir que o sistema atenda às expectativas da loja de acessórios:
-* **Taxa de Erro no Inventário:** O objetivo é reduzir a divergência entre o físico e o digital para < 1%.
-* **Cobertura de Código:** Mínimo de 70% de cobertura de testes unitários nas regras de negócio.
-* **Usabilidade:** O tempo médio para cadastrar um novo produto não deve ultrapassar 60 segundos.
+### 💰 2. Distribuição Financeira por Esforço de Dados
+Abaixo, a decomposição do valor baseada nas camadas de dados e lógica do sistema em `C#`:
+
+* **Implementação de Arquitetura de Dados (DDL/DML):** R$ 7.500,00
+  * *Criação de tabelas, índices e relacionamentos baseados no DER.*
+* **Lógica de Persistência e Regras de Negócio:** R$ 4.500,00
+  * *Desenvolvimento das classes em C# que garantem a integridade dos dados.*
+* **Otimização e Queries de Relatórios:** R$ 3.000,00
+  * *Extração de dados complexos para giro de estoque e alertas.*
 
 ### ⚡ 3. Métricas de Desempenho
 * **Tempo de Resposta:** Consultas ao banco de dados não devem exceder 2 segundos.
@@ -28,4 +32,6 @@ Para garantir que o sistema atenda às expectativas da loja de acessórios:
 
 ### 📊 Status do Artefato
 ![Fase](https://img.shields.io/badge/Fase-Planejamento-blue) 
-![Dificuldade](https://img.shields.io/badge/Dificuldade-M%C3%A9dia-yellow)
+![Dificuldade](https://img.shields.io/badge/Dificuldade-Elevada-red)
+
+---
