@@ -22,7 +22,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 * [x] [Matriz SWOT](documentacao/matriz_swot.md)
 * [x] [Matriz 5W2H](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/Matriz%205W2H.pdf)
 * [x] [TAP (Termo de Abertura do Projeto)](documentacao/tap.md)
-* [ ] EAP (Estrutura Analítica do Projeto)
+* [x] [EAP (Estrutura Analítica do Projeto)](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/eap.md)
 * [ ] Proposta Comercial
 * [ ] Métricas de Custo (MER/DER/Diagrama de Classes).
 
