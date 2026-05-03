@@ -2,8 +2,8 @@
 
 **Projeto:** Sistema de Gestão de Inventário Digital – Artigos Femininos  
 **Cliente:** Loja de Acessórios Femininos  
-**Gerentes do Projeto:** Diego Cruz Pereira e João Pedro Yoshida
-**Data de Início:** 01/03/2028 | **Data Prevista de Término:** 31/07/2028  
+**Gerentes do Projeto:** Diego Cruz Pereira e João Pedro Yoshida<br>
+**Data de Início:** 01/03/2026 | **Data Prevista de Término:** 31/07/2026  
 **Versão do Documento:** 1.0  
 
 ---
