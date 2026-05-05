@@ -27,7 +27,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 * [x] [Métricas de Custo (MER/DER/Diagrama de Classes)](documentacao/metricas.md)
 
 ### 2. Elicitação de Requisitos
-* [ ] Documento com as perguntas e respostas para elicitação dos requisitos
+* [x] [Documento com as perguntas e respostas para elicitação dos requisitos](documentacao/perguntas_elicitacao.md)
 * [ ] Matriz de rastreabilidade (Requisitos x Regra de Negócio) + (Requisitos x Caso de Uso)
 * [ ] Documentação de portabilidade.
 
