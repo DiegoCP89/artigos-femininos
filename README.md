@@ -29,7 +29,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 ### 2. Elicitação de Requisitos
 * [x] [Documento com as perguntas e respostas para elicitação dos requisitos](documentacao/perguntas_elicitacao.md)
 * [x] [Matriz de rastreabilidade (Requisitos x Regra de Negócio) + (Requisitos x Caso de Uso)](documentacao/matriz_rastreabilidade.md)
-* [ ] Documentação de portabilidade.
+* [x] [Documentação de portabilidade](documentacao/portabilidade.md)
 
 ### 3. Projeto/Design
 * [ ] BPMN
