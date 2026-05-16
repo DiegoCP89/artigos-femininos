@@ -36,7 +36,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 * [ ] Documentação de Requisitos
 * [ ] Diagrama de Caso de Uso
 * [ ] Documentação de Caso de Uso
-* [ ] Diagrama de Atividade
+* [x] [Diagrama de Atividade](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/ES3.jpg)
 * [ ] Diagrama de Máquina de Estado
 * [ ] Diagrama de Sequência
 * [ ] Diagrama de Classe
