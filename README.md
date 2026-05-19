@@ -32,7 +32,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 * [x] [Documentação de portabilidade](documentacao/portabilidade.md)
 
 ### 3. Projeto/Design
-* [ ] BPMN
+* [x] [BPMN](documentacao/bpmn.md)
 * [ ] Documentação de Requisitos
 * [ ] Diagrama de Caso de Uso
 * [ ] Documentação de Caso de Uso
