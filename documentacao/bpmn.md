@@ -8,7 +8,7 @@
 
 O fluxo abaixo descreve o processo de **Reposição de Estoque**, desde a chegada da mercadoria até o armazenamento final com auxílio do sistema.
 
-[Diagrama BPMN](documentacao/bpmn.svg)
+[Diagrama BPMN](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/bpmn.svg)
 
 ### 📋 2. Descrição das Etapas
 
