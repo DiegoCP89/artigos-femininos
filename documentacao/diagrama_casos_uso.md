@@ -7,7 +7,7 @@
 ### 🖼️ 1. Mapeamento de Escopo e Atores
 O diagrama abaixo representa a fronteira do sistema e as interações da Proprietária com os módulos de gerenciamento, movimentação e alertas.
 
-[Diagrama de Casos de Uso](documentacao/diagrama-caso-uso.svg)
+[Diagrama de Casos de Uso](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/diagrama-caso-uso.svg)
 
 ### 📋 2. Relacionamentos de Extensão e Inclusão
 * **`<<include>>` (Inclusão Obrigatória):** O caso de uso `Registrar Movimentação` inclui obrigatoriamente a validação de saldo no banco de dados para evitar inconsistências.
