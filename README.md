@@ -34,7 +34,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 ### 3. Projeto/Design
 * [x] [BPMN](documentacao/bpmn.md)
 * [x] [Documentação de Requisitos](documentacao/requisitos.md)
-* [ ] Diagrama de Caso de Uso
+* [x] [Diagrama de Caso de Uso](documentacao/diagrama_casos_uso.md)
 * [ ] Documentação de Caso de Uso
 * [x] [Diagrama de Atividade](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/ES3.jpg)
 * [ ] Diagrama de Máquina de Estado
