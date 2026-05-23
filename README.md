@@ -37,7 +37,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 * [x] [Diagrama de Caso de Uso](documentacao/diagrama_casos_uso.md)
 * [x] [Documentação de Caso de Uso](documentacao/caso_uso_manter_produto.md)
 * [x] [Diagrama de Atividade](https://github.com/DiegoCP89/artigos-femininos/blob/main/documentacao/ES3.jpg)
-* [ ] Diagrama de Máquina de Estado
+* [x] [Diagrama de Máquina de Estado](https://github.com/users/DiegoCP89/projects/3/views/1?pane=issue&itemId=163277798&issue=DiegoCP89%7Cartigos-femininos%7C16)
 * [ ] Diagrama de Sequência
 * [ ] Diagrama de Classe
 * [ ] Prototipação de Telas
