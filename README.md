@@ -40,7 +40,7 @@ Abaixo estão listados todos os artefatos solicitados, organizados por fase de d
 * [x] [Diagrama de Máquina de Estado](https://github.com/users/DiegoCP89/projects/3/views/1?pane=issue&itemId=163277798&issue=DiegoCP89%7Cartigos-femininos%7C16)
 * [x] [Diagrama de Sequência](https://github.com/DiegoCP89/artigos-femininos/issues/17)
 * [x] [Diagrama de Classe](https://github.com/DiegoCP89/artigos-femininos/issues/18)
-* [ ] Prototipação de Telas
+* [x] [Prototipação de Telas](https://github.com/DiegoCP89/artigos-femininos/issues/19)
 
 ---
 
